@@ -3,7 +3,6 @@ layout: post
 title: The Perfect Poster
 ---
 
-## What is a research poster?
 When presenting at a conference or science fair, you’ll often be asked to present your work at a poster session.
 
 Posters serve two distinct purposes: advertisement and visual aid.
